@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+ 
+
 cantidad_dolares = input("Ingresa una cantidad de dolares: ")
 tasa_interes = input("Ingresa la tasa de interes: ")
 numero_anos = input("Ingresa el total de anos: ")

@@ -1,9 +1,11 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+ 
 '''
 Escribir una función mas_larga() 
 que tome una lista de palabras 
 y devuelva la mas larga. 
 '''
-
 
 
 def mas_larga(lista):

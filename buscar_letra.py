@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Definir una lista con un conjunto de nombres, 
 imprimir la cantidad de comienzan con la letra a.
@@ -9,7 +12,7 @@ nombres = []
 for x in xrange(1,10):
 	nombres.append(raw_input("Escribe un nombre: ").lower())
 
-letra_buscada = raw_input("Que letra buscas: ")
+letra_buscada = raw_input("Qué letra buscas?: ")
 cantidad = 0
 
 for nombre in nombres:

@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Definir una tupla con 10 edades de personas. 
 Imprimir la cantidad de personas con edades superiores a 20.

@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Crear una función contar_vocales(),
 que reciba una palabra y cuente 

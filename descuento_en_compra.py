@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+ 
 '''
  Este programa pide primeramente la cantidad total de compras de una persona. 
  Si la cantidad es inferior a 100.00,elprogramadiráqueelclientenoaplicaalapromoción.

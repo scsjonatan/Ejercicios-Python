@@ -1,4 +1,6 @@
-
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+ 
 '''
 Supongamos que tenemos mas de 3 números o 
 no sabemos cuantos números son. Escribir 

@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 '''
 Escribir un programa que le diga al 
 usuario que ingrese una cadena. 
